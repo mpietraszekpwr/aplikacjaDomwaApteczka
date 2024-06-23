@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830982256414",
+    "project_id": "apteczka-projekt",
+    "storage_bucket": "apteczka-projekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830982256414:android:c18422007e57d09c7bfb0f",
+        "android_client_info": {
+          "package_name": "com.example.mainproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfeNXjUgA5_Fi-xCXGpP9Cf02W_RWFlAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
